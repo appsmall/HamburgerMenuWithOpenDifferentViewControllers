@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  HamburgerMenu
 //
-//  Created by Shashank Panwar on 13/12/18.
+//  Created by Appsmall on 13/12/18.
 //  Copyright © 2018 Rahul Chopra. All rights reserved.
 //
 
